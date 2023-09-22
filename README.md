@@ -8,5 +8,5 @@ This is my first arduino project
   <li>1 LED RED</li>
   <li>1 LED BLUE</li>
   <li>1 LED YELLOW</li>
-  <li>4 RESISTORS 220 ohms</li>
+  <li>4 RESISTORS 220Ω</li>
 </ul>
